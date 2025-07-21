@@ -36,5 +36,5 @@ Step-by-Step Implementation
 
 5. Run the Project
    - In the terminal (with the virtual environment still activated), run the script:
-     python FERMain.py
+     python Main.py
    - This should launch your webcam or process the input video and start detecting facial emotions in real time.
