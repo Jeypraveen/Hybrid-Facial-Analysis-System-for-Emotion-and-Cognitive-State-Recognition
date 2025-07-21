@@ -1,0 +1,56 @@
+
+================================================================================
+                               COMPREHENSIVE ANALYSIS REPORT
+================================================================================
+
+Session Information:
+  • Analysis Mode: FOLDER
+  • Video File: Rajashekar.mp4
+  • Session Duration: 0:00:11
+  • Total Frames Analyzed (where face processing was attempted): 110
+  • Analysis Date: 2025-07-18 21:24:43
+
+================================================================================
+                                     COGNITIVE STATE ANALYSIS (RAW DATA)
+================================================================================
+Total Raw Cognitive State Detections: 110
+
+  Attentive    │    110 │ 100.00% │ ██████████████████████████████████████████████████
+  Distracted   │      0 │   0.00% │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Drowsy       │      0 │   0.00% │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Dominant Raw Cognitive State: Attentive
+
+================================================================================
+                                     EMOTION ANALYSIS (RAW DATA)
+================================================================================
+Total Raw Emotion Detections: 110
+
+  Angry        │    100 │  90.91% │ █████████████████████████████████████████████░░░░░
+  Disgust      │      0 │   0.00% │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Fear         │      0 │   0.00% │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Happy        │      0 │   0.00% │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Neutral      │     10 │   9.09% │ ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Sad          │      0 │   0.00% │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Surprise     │      0 │   0.00% │ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Dominant Raw Emotion: Angry
+
+================================================================================
+                                     PERFORMANCE METRICS
+================================================================================
+  • Average Processing Rate: 9.98 FPS (based on frames where face processing was attempted)
+  • Raw Cognitive Data Points Collected: 110
+  • Raw Emotion Data Points Collected: 110
+
+================================================================================
+                                     INSIGHTS & SUMMARY (BASED ON RAW DATA)
+================================================================================
+  • Attention Level (Attentive state): 100.0% of detected valid raw cognitive states
+  • Assessment: High focus and engagement levels detected.
+  • Positive Emotional State (Happy, Surprise, Neutral): 9.1% of detected valid raw emotions
+
+================================================================================
+                                         END OF REPORT
+================================================================================
+
