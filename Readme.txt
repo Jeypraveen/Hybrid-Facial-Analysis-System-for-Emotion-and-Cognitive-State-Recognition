@@ -31,7 +31,7 @@ Step-by-Step Implementation
 4. Project Setup
    - Place the following files in your working directory:
      - FERMain.py
-     - FER.keras (the trained model file)
+     - FERTest3.keras (the trained model file)
    - Ensure the model path in FERMain.py correctly points to FER.keras
 
 5. Run the Project
